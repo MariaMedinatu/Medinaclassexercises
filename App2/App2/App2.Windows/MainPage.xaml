@@ -1,0 +1,23 @@
+﻿<Page
+    x:Class="App2.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App2"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Image x:Name="img_viewer" HorizontalAlignment="Left" Height="158" Margin="191,178,0,0" VerticalAlignment="Top" Width="225"/>
+        <Button Content="Photo" HorizontalAlignment="Left" Margin="188,467,0,0" VerticalAlignment="Top" Height="66" Width="140" Click="Button_Click"/>
+        <Image x:Name="img_viewer_Copy" HorizontalAlignment="Left" Height="268" Margin="75,121,0,0" VerticalAlignment="Top" Width="385"/>
+        <Image x:Name="img_viewer2" HorizontalAlignment="Left" Height="268" Margin="909,121,0,0" VerticalAlignment="Top" Width="392"/>
+        <Image x:Name="img_viewer1" HorizontalAlignment="Left" Height="235" Margin="507,178,0,0" VerticalAlignment="Top" Width="350"/>
+        <Button Content="You are going to the cinema" HorizontalAlignment="Left" Margin="147,405,0,0" VerticalAlignment="Top"/>
+        <Button Content="And meet with your best friend at the park" HorizontalAlignment="Left" Height="39" Margin="517,420,0,0" VerticalAlignment="Top" Width="322" Click="Button_Click_1"/>
+        <Button Content="Photo" HorizontalAlignment="Left" Height="62" Margin="1032,492,0,0" VerticalAlignment="Top" Width="165" Click="Button_Click_1"/>
+        <Button Content="Photo" HorizontalAlignment="Left" Height="60" Margin="601,494,0,0" VerticalAlignment="Top" Width="160" Click="Button_Click_2"/>
+        <Button Content="A huge bird appears" HorizontalAlignment="Left" Height="39" Margin="984,420,0,0" VerticalAlignment="Top" Width="237"/>
+
+    </Grid>
+</Page>

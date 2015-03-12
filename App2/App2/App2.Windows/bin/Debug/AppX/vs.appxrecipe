@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ALO-NB</Machine>
+    <WindowsUser>Alo11</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>26c93876-b706-4234-ad56-65545784b195</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Alo11\Documents\Visual Studio 2013\Projects\App2\App2\App2.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>240FF58870FF9688B961EE821CE41CC8489A5083943A96B48310F8E5FFE44669</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>26c93876-b706-4234-ad56-65545784b195_1.0.0.0_neutral__3rngcsavhmkc4</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>26c93876-b706-4234-ad56-65545784b195_3rngcsavhmkc4!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>26c93876-b706-4234-ad56-65545784b195</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Alo11</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Alo11\Documents\Visual Studio 2013\Projects\App2\App2\App2.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-08T14:44:25.160</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Alo11\Documents\Visual Studio 2013\Projects\App2\App2\App2.Windows\bin\Debug\App2.Windows.exe">
+      <PackagePath>App2.Windows.exe</PackagePath>
+      <Modified>2015-03-09T09:40:41.940</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Alo11\Documents\Visual Studio 2013\Projects\App2\App2\App2.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Alo11\Documents\Visual Studio 2013\Projects\App2\App2\App2.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Alo11\Documents\Visual Studio 2013\Projects\App2\App2\App2.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Alo11\Documents\Visual Studio 2013\Projects\App2\App2\App2.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Alo11\Documents\Visual Studio 2013\Projects\App2\App2\App2.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-03-08T14:44:23.105</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Alo11\Documents\Visual Studio 2013\Projects\App2\App2\App2.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-03-09T09:40:41.445</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Alo11\Documents\Visual Studio 2013\Projects\App2\App2\App2.Windows\bin\Debug\App2.Windows.xr.xml">
+      <PackagePath>App2.Windows.xr.xml</PackagePath>
+      <Modified>2015-03-08T14:44:22.917</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Alo11\Documents\Visual Studio 2013\Projects\App2\App2\App2.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-03-08T14:44:24.547</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
